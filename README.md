@@ -1,11 +1,11 @@
 # Credit Line Increase Model Card
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (# is for the biggest capital)
 
 ### Basic Information
 
 * **Person or organization developing model**: Patrick Hall, `jphall@gwu.edu`
 * **Model date**: August, 2021
-* **Model version**: 1.0
+* **Model version**: 0.22.2.post1
 * **License**: MIT
 * **Model implementation code**: [DNSC_6301_Example_Project.ipynb](DNSC_6301_Example_Project.ipynb)
 
