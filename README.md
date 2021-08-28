@@ -1,4 +1,4 @@
-# Credit Line Increase Model Card [//]: <> (This is also a comment.)
+# Credit Line Increase Model Card[comment]: <> (This is a comment, it will not be included)
 
 ### Basic Information
 
