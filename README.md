@@ -8,7 +8,7 @@
 * **Model date**: August, 2021
 * **Model version**: 0.22.2.post1
 * **License**: MIT
-* **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://raw.githubusercontent.com/cathy9/6301_group10/dev/6301_group10.ipynb)
+* **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://github.com/cathy9/6301_group10/blob/dev/6301_group10.ipynb)
 
 [comment]: <> ("``" is used to display a grey box)
 [comment]: <> (the first * illustrate the unordered list and "** **" is used for emphasizing,"[]" mean adding a link)
