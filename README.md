@@ -70,12 +70,12 @@
 
 * **Plots related to the data**:
 ![pic1](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/11.png)
-![pic2](file:///C:/Users/Zijian%20Wang/Desktop/22.png)
-![pic3](file:///C:/Users/Zijian%20Wang/Desktop/33.png)
-![pic4](file:///C:/Users/Zijian%20Wang/Desktop/44.png)
-![pic5](file:///C:/Users/Zijian%20Wang/Desktop/55.png)
-![pic5](file:///C:/Users/Zijian%20Wang/Desktop/66.png)
-![pic5](file:///C:/Users/Zijian%20Wang/Desktop/77.png)
+![pic2](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/22.png)
+![pic3](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/33.png)
+![pic4](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/44.png)
+![pic5](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/55.png)
+![pic5](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/66.png)
+![pic5](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/77.png)
 
 ### Ethical considerations 
 
