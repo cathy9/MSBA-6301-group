@@ -74,6 +74,8 @@
 ![pic3](file:///C:/Users/Zijian%20Wang/Desktop/33.png)
 ![pic4](file:///C:/Users/Zijian%20Wang/Desktop/44.png)
 ![pic5](file:///C:/Users/Zijian%20Wang/Desktop/55.png)
+![pic5](file:///C:/Users/Zijian%20Wang/Desktop/66.png)
+![pic5](file:///C:/Users/Zijian%20Wang/Desktop/77.png)
 
 ### Ethical considerations 
 
