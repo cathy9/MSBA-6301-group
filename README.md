@@ -69,8 +69,11 @@
 3. White proportion accepted: 0.531 Hispanic proportion accepted: 0.421 hispanic-to-white AIR: 0.79 White proportion accepted: 0.531 Black proportion accepted: 0.431 black-to-white AIR: 0.81 White proportion accepted: 0.531 Asian proportion accepted: 0.542 asian-to-white AIR: 1.02 Male proportion accepted: 0.481 Female proportion accepted: 0.500 female-to-male AIR: 1.04 
 
 * **Plots related to the data**:
-![pic](file:///C:/Users/Zijian%20Wang/Desktop/11.png)
-
+![pic1](file:///C:/Users/Zijian%20Wang/Desktop/11.png)
+![pic2](file:///C:/Users/Zijian%20Wang/Desktop/22.png)
+![pic3](file:///C:/Users/Zijian%20Wang/Desktop/33.png)
+![pic4](file:///C:/Users/Zijian%20Wang/Desktop/44.png)
+![pic5](file:///C:/Users/Zijian%20Wang/Desktop/55.png)
 
 ### Ethical considerations 
 
