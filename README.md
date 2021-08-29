@@ -69,6 +69,9 @@
 3. White proportion accepted: 0.531 Hispanic proportion accepted: 0.421 hispanic-to-white AIR: 0.79 White proportion accepted: 0.531 Black proportion accepted: 0.431 black-to-white AIR: 0.81 White proportion accepted: 0.531 Asian proportion accepted: 0.542 asian-to-white AIR: 1.02 Male proportion accepted: 0.481 Female proportion accepted: 0.500 female-to-male AIR: 1.04 
 
 * **Plots related to the data**:
+
+
+
 ![pic1](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/11.png)
 ![pic2](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/22.png)
 ![pic3](https://raw.githubusercontent.com/BA-WangZijian/MSBA-6301-group/main/33.png)
