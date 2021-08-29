@@ -4,12 +4,13 @@
 ### Basic Information
 [comment]: <> (### is for the third biggest capital, the more #, the smaller the type)
 
-* **Person or organization developing model**: Patrick Hall, `jphall@gwu.edu`
+* **Person or organization developing model**: Zijian `zjwang@gwu.edu`, Ming `mtang60@gwu.edu`, Yuqi `wyuqi30@gwu.edu`, Ziling `ziling@gwu.edu`
 * **Model date**: August, 2021
 * **Model version**: 0.22.2.post1
 * **License**: MIT
 * **Model implementation code**: [DNSC_6301_Example_Project.ipynb](DNSC_6301_Example_Project.ipynb)
 
+[comment]: <> ("``" is used to display a grey box)
 [comment]: <> (the first * illustrate the unordered list and "** **" is used for emphasizing,"[]" mean adding a link)
 
 ### Intended Use
@@ -36,6 +37,7 @@
 | **BILL_AMT1 - BILL_AMT6** | inputs | float | amount of bill statement; BILL_AMNT1 = amount of bill statement in September, 2005; BILL_AMT2 = amount of bill statement in August, 2005; ...; BILL_AMT6 = amount of bill statement in April, 2005 |
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
+
 [comment]: <> (When adding a table, hyphens could divide the words which for the first row, and pipe could seperate the column)
 
 * **Source of training data**: GWU Blackboard, email `jphall@gwu.edu` for more information
