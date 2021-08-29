@@ -5,9 +5,9 @@
 [comment]: <> (### is for the third biggest capital, the more #, the smaller the type)
 
 * **Person or organization developing model**: Zijian `zjwang@gwu.edu`, Ming `mtang60@gwu.edu`, Yuqi `wyuqi30@gwu.edu`, Ziling `ziling@gwu.edu`
-* **Model date**: August, 2021
+* **Model date**: August 29, 2021
 * **Model version**: 0.22.2.post1
-* **License**: MIT
+* **License**: Apache
 * **Model implementation code**: [DNSC_6301_Group10.ipynb](https://github.com/cathy9/6301_group10/blob/dev/6301_group10.ipynb)
 
 [comment]: <> ("``" is used to display a grey box)
@@ -52,8 +52,8 @@
 * **State any differences in columns between training and test data**: None
 
 ### Data Details
-* **Columns used as inputs in the final model**: 20
-* **Columns used as targets in the final model**: 20
+* **Columns used as inputs in the final model**: 'LIMIT_BAL', 'PAY_0', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6'
+* **Columns used as targets in the final model**: 'DELINQ_NEXT'
 * **Type of model**: Decision Tree
 * **Software used to implement the model**: Python 3 
 * **Version of the modeling software**: 0.22.2.post1
@@ -62,11 +62,57 @@
 ### Quantitative Analysis 
 * **Metrics used to evaluate final model**: Training AUC, Validation AUC, AIR, 5-Fold SD,Tree depth...
 * **Final values of the metrics for all data**: 
+Confusion matrix by RACE=1
+             actual: 1 actual: 0
+predicted: 1       447       387
+predicted: 0       139       501
+(Hispanic)
 
-1. Confusion matrix by RACE=1             actual: 1 actual: 0 predicted: 1       454       400 predicted: 0       132       488 (Hispanic) Confusion matrix by RACE=2             actual: 1 actual: 0 predicted: 1       470       379 predicted: 0       136       506 (Black) Confusion matrix by RACE=3             actual: 1 actual: 0 predicted: 1       180       894 predicted: 0        68      1147 (White) Confusion matrix by RACE=4             actual: 1 actual: 0 predicted: 1       193       835 predicted: 0        52      1166 (Asian) White proportion accepted: 0.531 Hispanic proportion accepted: 0.421 hispanic-to-white AIR: 0.79 White proportion accepted: 0.531 Black proportion accepted: 0.431 black-to-white AIR: 0.81 White proportion accepted: 0.531 Asian proportion accepted: 0.542 asian-to-white AIR: 1.02
+Confusion matrix by RACE=2
+             actual: 1 actual: 0
+predicted: 1       449       348
+predicted: 0       157       537
+(Black)
 
-2. Confusion matrix by SEX=1             actual: 1 actual: 0 predicted: 1       567       950 predicted: 0       158      1247 (Male) Confusion matrix by SEX=2             actual: 1 actual: 0 predicted: 1       730      1558 predicted: 0       230      2060 (Female) Male proportion accepted: 0.481 Female proportion accepted: 0.500 female-to-male AIR: 1.04
-3. White proportion accepted: 0.531 Hispanic proportion accepted: 0.421 hispanic-to-white AIR: 0.79 White proportion accepted: 0.531 Black proportion accepted: 0.431 black-to-white AIR: 0.81 White proportion accepted: 0.531 Asian proportion accepted: 0.542 asian-to-white AIR: 1.02 Male proportion accepted: 0.481 Female proportion accepted: 0.500 female-to-male AIR: 1.04 
+Confusion matrix by RACE=3
+             actual: 1 actual: 0
+predicted: 1       176       813
+predicted: 0        72      1228
+(White)
+
+Confusion matrix by RACE=4
+             actual: 1 actual: 0
+predicted: 1       186       784
+predicted: 0        59      1217
+(Asian)
+
+White proportion accepted: 0.568
+Hispanic proportion accepted: 0.434
+hispanic-to-white AIR: 0.76
+
+White proportion accepted: 0.568
+Black proportion accepted: 0.465
+black-to-white AIR: 0.82
+
+White proportion accepted: 0.568
+Asian proportion accepted: 0.568
+asian-to-white AIR: 1.00
+
+Confusion matrix by SEX=1
+             actual: 1 actual: 0
+predicted: 1       546       905
+predicted: 0       179      1292
+(Male)
+
+Confusion matrix by SEX=2
+             actual: 1 actual: 0
+predicted: 1       712      1427
+predicted: 0       248      2191
+(Female)
+
+Male proportion accepted: 0.503
+Female proportion accepted: 0.533
+female-to-male AIR: 1.06
 
 * **Plots related to the data**:
 
